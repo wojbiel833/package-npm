@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wojbiel833/randomid-generator": "^1.0.0",
+    "your-package-name": "^0.0.0"
+  }
+}
